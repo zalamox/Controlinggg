@@ -1,0 +1,16 @@
+{
+  "prefix": "",
+  "devs": [
+  ],
+  "autoReply": {
+  },
+  "mentionReply": false,
+  "voiceChannel": "",
+  "autoReaction": {
+    "messagesBefore": 10,
+    "logChannel": "",
+    "reactionTimeout": "5",
+    "giveawayBots": [
+    ]
+  }
+}
